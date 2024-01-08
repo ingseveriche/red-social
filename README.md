@@ -7,60 +7,41 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# Red social
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![texto php](https://img.shields.io/badge/PHP-purple)
+![texto mysql](https://img.shields.io/badge/MySQL-blue)
+![framework laravel](https://img.shields.io/badge/Framework-Laravel-red)
+![proyecto udemy](https://img.shields.io/badge/PROYECTO-Udemy-red)
+![estado del proyecto](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Descripción del Proyecto
+Proyecto web similar a la red social Instagram utilizando el framework Laravel.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+> [!NOTE]
+> Proyecto desarrollado en un curso Udemy.
 
-## Learning Laravel
+## Características del Proyecto
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Proyecto
+- Diseño y creación de la base de datos.
+- Instalación de Laravel.
+- Registro de usuarios.
+- Login de usuarios.
+- El usuario puede subir imagen, comentar y dar like.
+- Opciones de editar y eliminar imagen.
+- Sección de imágenes favoritas.
+- Sección de configuración de cuenta del usuario.
+- Ver Perfil.
+- Ver usuarios, sección de buscar.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### Mis Cambios
+El curso se  realizó con una versión antigua y fue interesante superar el desafío de trabajar por primera vez en un framework y a la vez aprender los cambios entre versiones; solucionando los inconvenientes por medio de los comentarios del curso y otros por mi cuenta.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Base de Datos
+:open_file_folder: La información de la base de datos se encuentra en la carpeta ***database***.
 
-## Laravel Sponsors
+## Screenshots
+:open_file_folder: En la carpeta ***screenshots*** se encuentran todas las capturas.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<img width="1457" alt="comentarios" src="https://github.com/ingseveriche/red-social/assets/114374804/5f3c9065-54de-4a36-8567-fa0c56a0c354">
